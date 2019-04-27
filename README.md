@@ -5,7 +5,7 @@
 <h3>Project Overview</h3>
 <p>This project is based on the Iris Dataset and covers the following areas:</p>
 <ul><li>Basic summary and background info on the Iris Dataset</li>
-<li>Analysis of the dataset using Python and Python libraries such as NumPy, Pandas, and Matplotlib. Through the course of my analysis, I used some of these libraries to visualize the Iris data to see what interesting aspects I could identify.</li><ul>
+<li>Analysis of the dataset using Python and Python libraries such as NumPy, Pandas, and Matplotlib. Through the course of my analysis, I used some of these libraries to visualize the Iris data to see what interesting aspects I could identify.</li></ul>
 
 <h3>Tools</h3>
 <p>I investigated the dataset using Python version 3.6.3. I used Pandas for the sheer convenience of importing the dataset and also NUmPy and Matplotlib as I mentioned above. I also used a Jupyter Notebook for my investigation.</p>
